@@ -112,13 +112,10 @@
   <a href="mailto:e.quiniou@outlook.fr">
     <img src="https://img.shields.io/badge/Outlook-e.quiniou%40outlook.fr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
   </a>
-  <a href="https://www.linkedin.com/in/ewen-quiniou/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ewen%20Q-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/ewen-q-32b17a36a/">
+    <img src="https://img.shields.io/badge/LinkedIn-ewen%20q-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/ewenq0">
     <img src="https://img.shields.io/badge/GitHub-ewenq0-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://codeberg.org/NEWE">
-    <img src="https://img.shields.io/badge/Codeberg-NEWE-2185D0?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg" />
   </a>
 </p>
