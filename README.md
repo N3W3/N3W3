@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Ewen Q</h1>
+  <h1>NEWE</h1>
 
   <p>
     <strong>Étudiant en L3 Informatique — Université de Rennes (ISTIC)</strong><br>
@@ -8,11 +8,8 @@
   </p>
 
   <p>
-    <a href="mailto:e.quiniou@outlook.fr">
-      <img src="https://img.shields.io/badge/Contact-e.quiniou%40outlook.fr-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/ewen-q-32b17a36a/">
-      <img src="https://img.shields.io/badge/LinkedIn-Ewen%20Q-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="mailto:newe00@protonmail.com">
+      <img src="https://img.shields.io/badge/Contact-newe00%40protonmail.com-1D70B8?style=flat-square&logo=protonmail&logoColor=white" alt="Email" />
     </a>
     <img src="https://img.shields.io/badge/Localisation-Rennes%2C%20France-informational?style=flat-square&logo=google-maps&logoColor=white" alt="Rennes, France" />
     <img src="https://img.shields.io/badge/Formation-L3%20Informatique%20(ISTIC)-blue?style=flat-square" alt="L3 Informatique" />
@@ -25,12 +22,10 @@
 
 ### À propos
 
-Étudiant en troisième année de Licence Informatique (L3) à l'ISTIC (Université de Rennes), passionné par la programmation système, le développement logiciel et l'écosystème Linux. J'accorde une importance particulière à la conception d'architectures propres, à l'automatisation des tâches (scripting, CI/CD) et à la qualité de la documentation.
+Étudiant en troisième année de Licence Informatique (L3) à l'ISTIC (Université de Rennes), passionné par la programmation système, le développement logiciel et l'écosystème Linux. À la recherche d'un **stage de fin de Licence à partir d'avril 2027** en développement logiciel, système ou outillage.
 
-- 🎓 **Formation** : Licence 3 Informatique — Université de Rennes (ISTIC).
-- 🎯 **Objectif** : À la recherche d'un **stage de fin de Licence à partir d'avril 2027** (développement logiciel, système ou outillage).
-- 💻 **Environnement quotidien** : Arch Linux / Fedora Asahi, compositeurs Wayland (Hyprland, Sway) et Doom Emacs.
-- ⚙️ **Approche** : Code modulaire, tests automatisés, intégration continue et ergonomie en ligne de commande (CLI).
+-  **Environnement quotidien** : Arch Linux / Fedora Asahi, compositeurs Wayland (Hyprland, Sway) et Doom Emacs.
+- ️**Approche technique** : Code modulaire, tests automatisés, intégration continue (CI/CD) et ergonomie en ligne de commande (CLI).
 
 ---
 
@@ -105,8 +100,8 @@
 ### Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ewenq0&show_icons=true&theme=tokyonight&locale=fr&hide_border=true&count_private=true" alt="Statistiques GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewenq0&layout=compact&theme=tokyonight&locale=fr&hide_border=true" alt="Langages les plus utilisés" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=N3W3&show_icons=true&theme=tokyonight&locale=fr&hide_border=true&count_private=true" alt="Statistiques GitHub de N3W3" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3W3&layout=compact&theme=tokyonight&locale=fr&hide_border=true" alt="Langages les plus utilisés par N3W3" height="165" />
 </div>
 
 ---
@@ -114,13 +109,16 @@
 ### Contact
 
 <p align="center">
-  <a href="mailto:e.quiniou@outlook.fr">
-    <img src="https://img.shields.io/badge/Outlook-e.quiniou%40outlook.fr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
+  <a href="mailto:newe00@protonmail.com">
+    <img src="https://img.shields.io/badge/ProtonMail-newe00%40protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
   </a>
-  <a href="https://www.linkedin.com/in/ewen-q-32b17a36a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ewen%20Q-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/ewen-quiniou/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ewen%20Quiniou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/ewenq0">
-    <img src="https://img.shields.io/badge/GitHub-ewenq0-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/N3W3">
+    <img src="https://img.shields.io/badge/GitHub-N3W3-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://codeberg.org/NEWE">
+    <img src="https://img.shields.io/badge/Codeberg-NEWE-2185D0?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg" />
   </a>
 </p>
