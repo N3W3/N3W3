@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>NEWE</h1>
+  <h1>Ewen Q</h1>
 
   <p>
     <strong>Étudiant en L3 Informatique — Université de Rennes (ISTIC)</strong><br>
@@ -8,8 +8,8 @@
   </p>
 
   <p>
-    <a href="mailto:newe00@protonmail.com">
-      <img src="https://img.shields.io/badge/Contact-newe00%40protonmail.com-1D70B8?style=flat-square&logo=protonmail&logoColor=white" alt="Email" />
+    <a href="mailto:e.quiniou@outlook.fr">
+      <img src="https://img.shields.io/badge/Contact-e.quiniou%40outlook.fr-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" />
     </a>
     <img src="https://img.shields.io/badge/Localisation-Rennes%2C%20France-informational?style=flat-square&logo=google-maps&logoColor=white" alt="Rennes, France" />
     <img src="https://img.shields.io/badge/Formation-L3%20Informatique%20(ISTIC)-blue?style=flat-square" alt="L3 Informatique" />
@@ -100,8 +100,8 @@
 ### Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N3W3&show_icons=true&theme=tokyonight&locale=fr&hide_border=true&count_private=true" alt="Statistiques GitHub de N3W3" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3W3&layout=compact&theme=tokyonight&locale=fr&hide_border=true" alt="Langages les plus utilisés par N3W3" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ewenq0&show_icons=true&theme=tokyonight&locale=fr&hide_border=true&count_private=true" alt="Statistiques GitHub de ewenq0" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewenq0&layout=compact&theme=tokyonight&locale=fr&hide_border=true" alt="Langages les plus utilisés par ewenq0" height="165" />
 </div>
 
 ---
@@ -109,14 +109,14 @@
 ### Contact
 
 <p align="center">
-  <a href="mailto:newe00@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-newe00%40protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
+  <a href="mailto:e.quiniou@outlook.fr">
+    <img src="https://img.shields.io/badge/Outlook-e.quiniou%40outlook.fr-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
   </a>
   <a href="https://www.linkedin.com/in/ewen-quiniou/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ewen%20Quiniou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ewen%20Q-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/N3W3">
-    <img src="https://img.shields.io/badge/GitHub-N3W3-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/ewenq0">
+    <img src="https://img.shields.io/badge/GitHub-ewenq0-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://codeberg.org/NEWE">
     <img src="https://img.shields.io/badge/Codeberg-NEWE-2185D0?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg" />
